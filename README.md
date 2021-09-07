@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://leo1104.github.io/portfolio-new-/](https://leo1104.github.io/portfolio-new-/)
+- 👨‍💻 All of my projects are available at [https://leo1104.github.io/portfolio-new-/](https://leo1104.github.io/prantosh_verma/)
 
 - 📫 How to reach me **prantoshv@gmail.com**
 
